@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tim Lynch	tim@seizingknuckle.com	seizingknuckle
 
 # THANKS
 
