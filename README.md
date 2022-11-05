@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ###Copyright
 
 2022 Seizing Knuckle Software
+
+## How to Contribute
+
+Please fork this repository
